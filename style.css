@@ -92,7 +92,7 @@ nav a:hover { text-decoration: underline; }
   background-color: #FFE98A;
   border-radius: 15px;
   z-index: -1; /* lo manda atrás del texto */
-  animation: dibujar 1s; /* usa la animación "dibujar" durante 1 segundo */
+  animation: dibujar; /* usa la animación "dibujar" durante 1 segundo */
 }
 
 .descripcion { margin: 15px 0 25px; }
